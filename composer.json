@@ -1,0 +1,20 @@
+{
+    "name": "ngpay/ngpay-php",
+    "description": "NG Pay PHP Library",
+    "type": "library",
+    "require": {
+        "php": ">=7.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "NG Pay",
+            "email": "support@ngpay.net"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ngpay\\" : "lib/"
+        }
+    }
+}
