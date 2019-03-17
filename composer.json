@@ -3,7 +3,7 @@
     "description": "NG Pay PHP Library",
     "type": "library",
     "require": {
-        "php": ">=7.3"
+        "php": ">=5.4.0"
     },
     "license": "MIT",
     "authors": [
