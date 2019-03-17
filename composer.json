@@ -16,5 +16,6 @@
         "psr-4": {
             "ngpay\\" : "lib/"
         }
-    }
+    },
+    "minimum-stability": "stable"
 }
